@@ -1,5 +1,4 @@
 #include <stdio.h>
-/*使用了欧拉法*/ 
 
 int main(void)
 {
